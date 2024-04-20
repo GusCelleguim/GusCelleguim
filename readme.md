@@ -1,6 +1,3 @@
-# Gustavo Celleguim - Desenvolvedor Front-END 
-
-
 <!-- apresentação -->
 <div class ="inicio">
  <h1 align="left"> <a href="https://www.linkedin.com/in/gustavo-de-andrade-celleguim-b59894229/" target="_blank">  Gustavo De Andrade Celleguim </a>
