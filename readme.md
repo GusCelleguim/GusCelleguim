@@ -12,11 +12,22 @@
   <img src="https://github.com/GusCelleguim/GusCelleguim/blob/main/img/gustavo-de-andrade-photo.png?raw=true"  >
 
   </div>
-  
+
+  --------
+
+
 <img align="right" width=100px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me:***
+
 <p>
 Gustavo de Andrade Celleguim is a passionate developer dedicated to continual learning and self-improvement. Currently, he is deeply committed to assisting the Brazilian community through his project "Jornada do Herói" (Hero's Journey). This initiative focuses on teaching individuals how to develop and understand programming concepts, aiming to empower them with the skills necessary to succeed in the tech industry. In addition to his educational endeavors, Gustavo is also learning about best practices in UI/UX design from Felipe Santana, enhancing his ability to create user-friendly and aesthetically pleasing interfaces. His dedication to both his personal growth and the advancement of others highlights his commitment to making a significant impact in the tech world.
 </p>
 
+## Voce pode Ver que estou fazendo hehe ?
+[![Discord Presence](https://lanyard.cnrad.dev/api/677572342972678145)](https://discord.com/users/677572342972678145)
+
+
+<div class="icons-social" style="align-items: center;">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+</div>
